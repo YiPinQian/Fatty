@@ -1,6 +1,6 @@
 # Fatty
 Singapore’s 42M parameter local LLM – runs offline on 6GB, 8GB, 12GB, 16GB+4GB, 16GB+6GB tested phones
-# Fatty AI – Singapore's 42M Local LLM - © 2025 Yi Pin Qian • All rights reserved
+# Fatty AI – Singapore's 42M Local LLM
 
 Official domains:  
 → https://fatty.sg  
@@ -10,3 +10,5 @@ Official domains:
 Pure Singapore soul ⋅ 100 % hand-written ⋅ Runs on 6GB, 8GB, 12GB, 16GB+4GB, 16GB+6GB tested phones ⋅ No cloud forever
 
 (quiet corner ⋅ no weights ⋅ no code ⋅ just love from one stubborn Singaporean from Yi Pin Qian♡)
+
+© 2025 Yi Pin Qian • All rights reserved
