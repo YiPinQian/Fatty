@@ -1,6 +1,6 @@
 # Fatty
 Singapore’s 42M parameter local LLM – runs offline on 6GB, 8GB, 12GB, 16GB+4GB, 16GB+6GB tested phones
-# Fatty AI – Singapore's 42M Local LLM
+# Fatty AI – Singapore's 42M Local LLM - Beta Trial Testing version 1.6 will be available after mid Dec 2025
 
 Official domains:  
 → https://fatty.sg  
