@@ -9,7 +9,7 @@ Official domains:
 
 Pure Singapore soul ⋅ 100 % hand-written ⋅ Runs on 4GB, 6GB, 8GB, 12GB, 16GB+4GB, 16GB+6GB tested phones ⋅ No cloud forever
 
-Fatty Singapore AI is an Artificial Intelligence base model,  
+Fatty Singapore AI Model is an Artificial Intelligence base model,  
 born from 32 GB RAM CPU (no CUDA) -> 6 GB GPU -> now Zotac 5070 Ti Solid Core OC 16 GB - FP32.  
 All built the lean way, proving sovereign containment from constraint to inheritance.
 
