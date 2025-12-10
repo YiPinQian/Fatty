@@ -20,3 +20,5 @@ Note: 2GB not tested, if anyone has a 2gb device, please help to try on it durin
 Beta Trial Testing version 1.6 will be available after mid Dec 2025
 
 © 2025 Yi Pin Qian • All rights reserved
+
+Please read -> Fatty Singapore AI Beta Trial Testin Version 1.6 to read agreements before any download online. -> https://fatty.sg/fatty_ai_betat_trial_testing_agreement/
