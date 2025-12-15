@@ -22,3 +22,5 @@ Beta Trial Testing version 1.6 will be available after mid Dec 2025
 © 2025 Yi Pin Qian • All rights reserved
 
 Please read -> Fatty Singapore AI Beta Trial Testin Version 1.6 to read agreements before any download online. -> https://fatty.sg/fatty_ai_betat_trial_testing_agreement/
+
+https://www.facebook.com/reel/2063603577377375 <--- this is the latest demo before Fatty's Trial Testing version. I do wrote something about why I use FP32 for this app, just in case many thought that it is for accuracy which is not the reason at all. I hope this help for some.
