@@ -36,5 +36,5 @@ Query: "what is mbs"
 - Full answer in ~7 seconds
 - 100% offline, no internet needed
 
-See full log: [fattylogcat.txt](blob/main/fattylogcat.txt)
-
+See full log: [fattylogcat.txt][(blob/main/logs/fattylogcat.txt)
+](https://github.com/YiPinQian/Fatty/blob/main/logs/fattylogcat.txt)
