@@ -1,0 +1,753 @@
+8gb Huawei mate 40 pro Fatty Logcat
+
+2025-12-17 21:52:21.041 27736-27768                         fattylogcat                 JNI: Prompt: what is mbs
+2025-12-17 21:52:21.041 27736-27768                         fattylogcat                 JNI: Tokenized prompt into 18 tokens
+2025-12-17 21:52:21.041 27736-27768                         fattylogcat                 JNI: Decoding batch 0-17, n_tokens=18, n_past=0
+2025-12-17 21:52:21.047 27736-27736 InsetsSourceConsumer    fattylogcat                 setControl mType:1, requestedVisible:true, getLeash:Surface(name=Surface(name=d36d2b2 NavigationBar0)/@0xb0677a0 - animation-leash of insets_animation)/@0x77e2ed9, needAnimation:false, mIsAnimationPending:false, getRootViewTitle:fattylogcat/fattylogcat.AIMainActivity
+2025-12-17 21:52:21.413 27736-27768 Fattylogcat             fattylogcat                 JNI: Decode succeeded for batch 0-17, n_past=18
+2025-12-17 21:52:21.413 27736-27768                         fattylogcat                 JNI: Prompt processing complete. n_past: 18
+
+2025-12-17 21:52:21.465 27736-27768                         fattylogcat                 JNI: Sampled token 7676 at pos 19
+2025-12-17 21:52:21.465 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=19
+2025-12-17 21:52:21.513 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: Mar, Hex: 4d 61 72 
+2025-12-17 21:52:21.513 27736-27768                         fattylogcat                 JNI: Token str after construct: 'Mar' (length 3)
+2025-12-17 21:52:21.513 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'Mar'
+2025-12-17 21:52:21.513 27736-27768 FattyAI                 fattylogcat                 Received token: 'Mar'
+2025-12-17 21:52:21.516 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 1437 at pos 20
+2025-12-17 21:52:21.516 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=20
+2025-12-17 21:52:21.580 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: ina, Hex: 69 6e 61 
+2025-12-17 21:52:21.580 27736-27768                         fattylogcat                 JNI: Token str after construct: 'ina' (length 3)
+2025-12-17 21:52:21.580 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'ina'
+2025-12-17 21:52:21.580 27736-27768 FattyAI                 fattylogcat                 Received token: 'ina'
+2025-12-17 21:52:21.582 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 4696 at pos 21
+2025-12-17 21:52:21.582 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=21
+2025-12-17 21:52:21.635 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Bay, Hex: 20 42 61 79 
+2025-12-17 21:52:21.635 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Bay' (length 4)
+2025-12-17 21:52:21.635 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Bay'
+2025-12-17 21:52:21.635 27736-27768 FattyAI                 fattylogcat                 Received token: ' Bay'
+2025-12-17 21:52:21.637 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 35359 at pos 22
+2025-12-17 21:52:21.637 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=22
+2025-12-17 21:52:21.695 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  Sands, Hex: 20 53 61 6e 64 73 
+2025-12-17 21:52:21.695 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Sands' (length 6)
+2025-12-17 21:52:21.695 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Sands'
+2025-12-17 21:52:21.695 27736-27768 FattyAI                 fattylogcat                 Received token: ' Sands'
+2025-12-17 21:52:21.697 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 318 at pos 23
+2025-12-17 21:52:21.697 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=23
+2025-12-17 21:52:21.753 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  is, Hex: 20 69 73 
+2025-12-17 21:52:21.753 27736-27768                         fattylogcat                 JNI: Token str after construct: ' is' (length 3)
+2025-12-17 21:52:21.753 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' is'
+2025-12-17 21:52:21.753 27736-27768 FattyAI                 fattylogcat                 Received token: ' is'
+2025-12-17 21:52:21.755 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 257 at pos 24
+2025-12-17 21:52:21.755 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=24
+2025-12-17 21:52:21.806 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  a, Hex: 20 61 
+2025-12-17 21:52:21.806 27736-27768                         fattylogcat                 JNI: Token str after construct: ' a' (length 2)
+2025-12-17 21:52:21.806 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' a'
+2025-12-17 21:52:21.806 27736-27768 FattyAI                 fattylogcat                 Received token: ' a'
+2025-12-17 21:52:21.808 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 17145 at pos 25
+2025-12-17 21:52:21.808 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=25
+2025-12-17 21:52:21.861 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Lux, Hex: 20 4c 75 78 
+2025-12-17 21:52:21.861 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Lux' (length 4)
+2025-12-17 21:52:21.861 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Lux'
+2025-12-17 21:52:21.861 27736-27768 FattyAI                 fattylogcat                 Received token: ' Lux'
+2025-12-17 21:52:21.864 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 1601 at pos 26
+2025-12-17 21:52:21.864 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=26
+2025-12-17 21:52:21.936 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: ury, Hex: 75 72 79 
+2025-12-17 21:52:21.936 27736-27768                         fattylogcat                 JNI: Token str after construct: 'ury' (length 3)
+2025-12-17 21:52:21.936 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'ury'
+2025-12-17 21:52:21.936 27736-27768 FattyAI                 fattylogcat                 Received token: 'ury'
+2025-12-17 21:52:21.938 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 35432 at pos 27
+2025-12-17 21:52:21.938 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=27
+2025-12-17 21:52:21.991 27736-27768                         fattylogcat                 JNI: Detokenize chars = 11, raw buffer:  Integrated, Hex: 20 49 6e 74 65 67 72 61 74 65 
+2025-12-17 21:52:21.991 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Integrated' (length 11)
+2025-12-17 21:52:21.991 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Integrated'
+2025-12-17 21:52:21.991 27736-27768 FattyAI                 fattylogcat                 Received token: ' Integrated'
+2025-12-17 21:52:21.993 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 28345 at pos 28
+2025-12-17 21:52:21.993 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=28
+2025-12-17 21:52:22.038 27736-27768                         fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  Resort, Hex: 20 52 65 73 6f 72 74 
+2025-12-17 21:52:22.038 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Resort' (length 7)
+2025-12-17 21:52:22.038 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Resort'
+2025-12-17 21:52:22.038 27736-27768 FattyAI                 fattylogcat                 Received token: ' Resort'
+2025-12-17 21:52:22.040 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 532 at pos 29
+2025-12-17 21:52:22.040 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=29
+2025-12-17 21:52:22.094 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  -, Hex: 20 2d 
+2025-12-17 21:52:22.094 27736-27768                         fattylogcat                 JNI: Token str after construct: ' -' (length 2)
+2025-12-17 21:52:22.094 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' -'
+2025-12-17 21:52:22.094 27736-27768 FattyAI                 fattylogcat                 Received token: ' -'
+2025-12-17 21:52:22.096 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 530 at pos 30
+2025-12-17 21:52:22.096 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=30
+2025-12-17 21:52:22.143 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  one, Hex: 20 6f 6e 65 
+2025-12-17 21:52:22.143 27736-27768                         fattylogcat                 JNI: Token str after construct: ' one' (length 4)
+2025-12-17 21:52:22.143 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' one'
+2025-12-17 21:52:22.143 27736-27768 FattyAI                 fattylogcat                 Received token: ' one'
+2025-12-17 21:52:22.145 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 286 at pos 31
+2025-12-17 21:52:22.145 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=31
+2025-12-17 21:52:22.191 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  of, Hex: 20 6f 66 
+2025-12-17 21:52:22.191 27736-27768                         fattylogcat                 JNI: Token str after construct: ' of' (length 3)
+2025-12-17 21:52:22.191 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' of'
+2025-12-17 21:52:22.191 27736-27768 FattyAI                 fattylogcat                 Received token: ' of'
+2025-12-17 21:52:22.193 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 262 at pos 32
+2025-12-17 21:52:22.193 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=32
+2025-12-17 21:52:22.241 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  the, Hex: 20 74 68 65 
+2025-12-17 21:52:22.241 27736-27768                         fattylogcat                 JNI: Token str after construct: ' the' (length 4)
+2025-12-17 21:52:22.241 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' the'
+2025-12-17 21:52:22.241 27736-27768 FattyAI                 fattylogcat                 Received token: ' the'
+2025-12-17 21:52:22.244 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 749 at pos 33
+2025-12-17 21:52:22.244 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=33
+2025-12-17 21:52:22.291 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer:  most, Hex: 20 6d 6f 73 74 
+2025-12-17 21:52:22.291 27736-27768                         fattylogcat                 JNI: Token str after construct: ' most' (length 5)
+2025-12-17 21:52:22.291 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' most'
+2025-12-17 21:52:22.291 27736-27768 FattyAI                 fattylogcat                 Received token: ' most'
+2025-12-17 21:52:22.293 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12520 at pos 34
+2025-12-17 21:52:22.293 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=34
+2025-12-17 21:52:22.347 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  ?, Hex: 20 f0 9f 
+2025-12-17 21:52:22.347 27736-27768                         fattylogcat                 JNI: Token str after construct: ' ?' (length 3)
+2025-12-17 21:52:22.347 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 3 bytes, hex: Hex: 20 f0 9f 
+2025-12-17 21:52:22.349 27736-27768                         fattylogcat                 JNI: Sampled token 237 at pos 35
+2025-12-17 21:52:22.349 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=35
+2025-12-17 21:52:22.394 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 8f 
+2025-12-17 21:52:22.394 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:22.394 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 4 bytes, hex: Hex: 8f 
+2025-12-17 21:52:22.396 27736-27768                         fattylogcat                 JNI: Sampled token 101 at pos 36
+2025-12-17 21:52:22.396 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=36
+2025-12-17 21:52:22.446 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: a8 
+2025-12-17 21:52:22.446 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:22.446 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 🏨'
+2025-12-17 21:52:22.446 27736-27768 FattyAI                 fattylogcat                 Received token: ' 🏨'
+2025-12-17 21:52:22.449 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 14133 at pos 37
+2025-12-17 21:52:22.449 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=37
+2025-12-17 21:52:22.499 27736-27768                         fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  iconic, Hex: 20 69 63 6f 6e 69 63 
+2025-12-17 21:52:22.499 27736-27768                         fattylogcat                 JNI: Token str after construct: ' iconic' (length 7)
+2025-12-17 21:52:22.499 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' iconic'
+2025-12-17 21:52:22.499 27736-27768 FattyAI                 fattylogcat                 Received token: ' iconic'
+2025-12-17 21:52:22.502 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 41532 at pos 38
+2025-12-17 21:52:22.502 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=38
+2025-12-17 21:52:22.540 27736-27736 FattyAI                 fattylogcat                 Failsafe timeout triggered - unlocking UI
+2025-12-17 21:52:22.541 27736-27736 InputMethodManager      fattylogcat                 startInputReason = 4
+2025-12-17 21:52:22.543 27736-27736 HwRemoteIn...hodManager fattylogcat                 isCasting false because IHwDistributedWindowManager is invalid.
+2025-12-17 21:52:22.547 27736-27736 FattyAI                 fattylogcat                 UI unlocked after failsafe
+2025-12-17 21:52:22.550 27736-27745 example.fattya          fattylogcat                 Compiler allocated 4945KB to compile void android.view.ViewRootImpl.performTraversals()
+2025-12-17 21:52:22.584 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 10, raw buffer:  landmarks, Hex: 20 6c 61 6e 64 6d 61 72 6b 73 
+2025-12-17 21:52:22.584 27736-27768                         fattylogcat                 JNI: Token str after construct: ' landmarks' (length 10)
+2025-12-17 21:52:22.584 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' landmarks'
+2025-12-17 21:52:22.585 27736-27768 FattyAI                 fattylogcat                 Received token: ' landmarks'
+2025-12-17 21:52:22.587 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 286 at pos 39
+2025-12-17 21:52:22.587 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=39
+2025-12-17 21:52:22.641 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  of, Hex: 20 6f 66 
+2025-12-17 21:52:22.641 27736-27768                         fattylogcat                 JNI: Token str after construct: ' of' (length 3)
+2025-12-17 21:52:22.641 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' of'
+2025-12-17 21:52:22.641 27736-27768 FattyAI                 fattylogcat                 Received token: ' of'
+2025-12-17 21:52:22.643 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12551 at pos 40
+2025-12-17 21:52:22.643 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=40
+2025-12-17 21:52:22.697 27736-27768                         fattylogcat                 JNI: Detokenize chars = 10, raw buffer:  Singapore, Hex: 20 53 69 6e 67 61 70 6f 72 65 
+2025-12-17 21:52:22.697 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Singapore' (length 10)
+2025-12-17 21:52:22.697 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Singapore'
+2025-12-17 21:52:22.698 27736-27768 FattyAI                 fattylogcat                 Received token: ' Singapore'
+2025-12-17 21:52:22.700 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 28889 at pos 41
+2025-12-17 21:52:22.700 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=41
+2025-12-17 21:52:22.775 27736-27768                         fattylogcat                 JNI: Detokenize chars = 9, raw buffer:  comprise, Hex: 20 63 6f 6d 70 72 69 73 65 
+2025-12-17 21:52:22.775 27736-27768                         fattylogcat                 JNI: Token str after construct: ' comprise' (length 9)
+2025-12-17 21:52:22.775 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' comprise'
+2025-12-17 21:52:22.775 27736-27768 FattyAI                 fattylogcat                 Received token: ' comprise'
+2025-12-17 21:52:22.777 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 286 at pos 42
+2025-12-17 21:52:22.777 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=42
+2025-12-17 21:52:22.805 27736-27753 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:22.836 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  of, Hex: 20 6f 66 
+2025-12-17 21:52:22.836 27736-27768                         fattylogcat                 JNI: Token str after construct: ' of' (length 3)
+2025-12-17 21:52:22.836 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' of'
+2025-12-17 21:52:22.836 27736-27768 FattyAI                 fattylogcat                 Received token: ' of'
+2025-12-17 21:52:22.838 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 1115 at pos 43
+2025-12-17 21:52:22.838 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=43
+2025-12-17 21:52:22.888 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  three, Hex: 20 74 68 72 65 65 
+2025-12-17 21:52:22.888 27736-27768                         fattylogcat                 JNI: Token str after construct: ' three' (length 6)
+2025-12-17 21:52:22.888 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' three'
+2025-12-17 21:52:22.888 27736-27768 FattyAI                 fattylogcat                 Received token: ' three'
+2025-12-17 21:52:22.890 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 18028 at pos 44
+2025-12-17 21:52:22.890 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=44
+2025-12-17 21:52:22.941 27736-27768                         fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  towers, Hex: 20 74 6f 77 65 72 73 
+2025-12-17 21:52:22.941 27736-27768                         fattylogcat                 JNI: Token str after construct: ' towers' (length 7)
+2025-12-17 21:52:22.941 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' towers'
+2025-12-17 21:52:22.941 27736-27768 FattyAI                 fattylogcat                 Received token: ' towers'
+2025-12-17 21:52:22.943 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 351 at pos 45
+2025-12-17 21:52:22.943 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=45
+2025-12-17 21:52:22.993 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer:  with, Hex: 20 77 69 74 68 
+2025-12-17 21:52:22.993 27736-27768                         fattylogcat                 JNI: Token str after construct: ' with' (length 5)
+2025-12-17 21:52:22.993 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' with'
+2025-12-17 21:52:22.993 27736-27768 FattyAI                 fattylogcat                 Received token: ' with'
+2025-12-17 21:52:22.995 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 7541 at pos 46
+2025-12-17 21:52:22.995 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=46
+2025-12-17 21:52:23.063 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  hotel, Hex: 20 68 6f 74 65 6c 
+2025-12-17 21:52:23.063 27736-27768                         fattylogcat                 JNI: Token str after construct: ' hotel' (length 6)
+2025-12-17 21:52:23.063 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' hotel'
+2025-12-17 21:52:23.063 27736-27768 FattyAI                 fattylogcat                 Received token: ' hotel'
+2025-12-17 21:52:23.065 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 11 at pos 47
+2025-12-17 21:52:23.065 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=47
+2025-12-17 21:52:23.122 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ,, Hex: 2c 
+2025-12-17 21:52:23.122 27736-27768                         fattylogcat                 JNI: Token str after construct: ',' (length 1)
+2025-12-17 21:52:23.122 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ','
+2025-12-17 21:52:23.122 27736-27768 FattyAI                 fattylogcat                 Received token: ','
+2025-12-17 21:52:23.124 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12520 at pos 48
+2025-12-17 21:52:23.124 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=48
+2025-12-17 21:52:23.170 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  ?, Hex: 20 f0 9f 
+2025-12-17 21:52:23.170 27736-27768                         fattylogcat                 JNI: Token str after construct: ' ?' (length 3)
+2025-12-17 21:52:23.170 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 3 bytes, hex: Hex: 20 f0 9f 
+2025-12-17 21:52:23.172 27736-27768                         fattylogcat                 JNI: Sampled token 236 at pos 49
+2025-12-17 21:52:23.172 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=49
+2025-12-17 21:52:23.218 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 8e 
+2025-12-17 21:52:23.218 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:23.218 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 4 bytes, hex: Hex: 8e 
+2025-12-17 21:52:23.220 27736-27768                         fattylogcat                 JNI: Sampled token 108 at pos 50
+2025-12-17 21:52:23.220 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=50
+2025-12-17 21:52:23.267 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: b0 
+2025-12-17 21:52:23.267 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:23.267 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 🎰'
+2025-12-17 21:52:23.267 27736-27768 FattyAI                 fattylogcat                 Received token: ' 🎰'
+2025-12-17 21:52:23.269 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 8204 at pos 51
+2025-12-17 21:52:23.269 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=51
+2025-12-17 21:52:23.315 27736-27768                         fattylogcat                 JNI: Detokenize chars = 10, raw buffer:  entertain, Hex: 20 65 6e 74 65 72 74 61 69 6e 
+2025-12-17 21:52:23.315 27736-27768                         fattylogcat                 JNI: Token str after construct: ' entertain' (length 10)
+2025-12-17 21:52:23.315 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' entertain'
+2025-12-17 21:52:23.315 27736-27768 FattyAI                 fattylogcat                 Received token: ' entertain'
+2025-12-17 21:52:23.317 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 902 at pos 52
+2025-12-17 21:52:23.317 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=52
+2025-12-17 21:52:23.383 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer: ments, Hex: 6d 65 6e 74 73 
+2025-12-17 21:52:23.383 27736-27768                         fattylogcat                 JNI: Token str after construct: 'ments' (length 5)
+2025-12-17 21:52:23.383 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'ments'
+2025-12-17 21:52:23.384 27736-27768 FattyAI                 fattylogcat                 Received token: 'ments'
+2025-12-17 21:52:23.385 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 884 at pos 53
+2025-12-17 21:52:23.385 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=53
+2025-12-17 21:52:23.446 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer:  such, Hex: 20 73 75 63 68 
+2025-12-17 21:52:23.446 27736-27768                         fattylogcat                 JNI: Token str after construct: ' such' (length 5)
+2025-12-17 21:52:23.446 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' such'
+2025-12-17 21:52:23.446 27736-27768 FattyAI                 fattylogcat                 Received token: ' such'
+2025-12-17 21:52:23.448 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 355 at pos 54
+2025-12-17 21:52:23.448 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=54
+2025-12-17 21:52:23.501 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  as, Hex: 20 61 73 
+2025-12-17 21:52:23.501 27736-27768                         fattylogcat                 JNI: Token str after construct: ' as' (length 3)
+2025-12-17 21:52:23.501 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' as'
+2025-12-17 21:52:23.502 27736-27768 FattyAI                 fattylogcat                 Received token: ' as'
+2025-12-17 21:52:23.503 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 21507 at pos 55
+2025-12-17 21:52:23.504 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=55
+2025-12-17 21:52:23.538 27736-27757 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:23.574 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  casino, Hex: 20 63 61 73 69 6e 6f 
+2025-12-17 21:52:23.574 27736-27768                         fattylogcat                 JNI: Token str after construct: ' casino' (length 7)
+2025-12-17 21:52:23.574 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' casino'
+2025-12-17 21:52:23.574 27736-27768 FattyAI                 fattylogcat                 Received token: ' casino'
+2025-12-17 21:52:23.576 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 11 at pos 56
+2025-12-17 21:52:23.576 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=56
+2025-12-17 21:52:23.637 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ,, Hex: 2c 
+2025-12-17 21:52:23.637 27736-27768                         fattylogcat                 JNI: Token str after construct: ',' (length 1)
+2025-12-17 21:52:23.637 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ','
+2025-12-17 21:52:23.638 27736-27768 FattyAI                 fattylogcat                 Received token: ','
+2025-12-17 21:52:23.639 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 10848 at pos 57
+2025-12-17 21:52:23.639 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=57
+2025-12-17 21:52:23.687 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer:  arts, Hex: 20 61 72 74 73 
+2025-12-17 21:52:23.687 27736-27768                         fattylogcat                 JNI: Token str after construct: ' arts' (length 5)
+2025-12-17 21:52:23.687 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' arts'
+2025-12-17 21:52:23.687 27736-27768 FattyAI                 fattylogcat                 Received token: ' arts'
+2025-12-17 21:52:23.689 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 4234 at pos 58
+2025-12-17 21:52:23.689 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=58
+2025-12-17 21:52:23.741 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer: cience, Hex: 63 69 65 6e 63 65 
+2025-12-17 21:52:23.741 27736-27768                         fattylogcat                 JNI: Token str after construct: 'cience' (length 6)
+2025-12-17 21:52:23.741 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'cience'
+2025-12-17 21:52:23.741 27736-27768 FattyAI                 fattylogcat                 Received token: 'cience'
+2025-12-17 21:52:23.743 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 13257 at pos 59
+2025-12-17 21:52:23.743 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=59
+2025-12-17 21:52:23.788 27736-27768                         fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  museum, Hex: 20 6d 75 73 65 75 6d 
+2025-12-17 21:52:23.788 27736-27768                         fattylogcat                 JNI: Token str after construct: ' museum' (length 7)
+2025-12-17 21:52:23.788 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' museum'
+2025-12-17 21:52:23.788 27736-27768 FattyAI                 fattylogcat                 Received token: ' museum'
+2025-12-17 21:52:23.790 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 290 at pos 60
+2025-12-17 21:52:23.790 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=60
+2025-12-17 21:52:23.841 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  and, Hex: 20 61 6e 64 
+2025-12-17 21:52:23.841 27736-27768                         fattylogcat                 JNI: Token str after construct: ' and' (length 4)
+2025-12-17 21:52:23.841 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' and'
+2025-12-17 21:52:23.841 27736-27768 FattyAI                 fattylogcat                 Received token: ' and'
+2025-12-17 21:52:23.843 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12437 at pos 61
+2025-12-17 21:52:23.843 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=61
+2025-12-17 21:52:23.922 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  shops, Hex: 20 73 68 6f 70 73 
+2025-12-17 21:52:23.922 27736-27768                         fattylogcat                 JNI: Token str after construct: ' shops' (length 6)
+2025-12-17 21:52:23.922 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' shops'
+2025-12-17 21:52:23.922 27736-27768 FattyAI                 fattylogcat                 Received token: ' shops'
+2025-12-17 21:52:23.924 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 532 at pos 62
+2025-12-17 21:52:23.924 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=62
+2025-12-17 21:52:23.980 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  -, Hex: 20 2d 
+2025-12-17 21:52:23.980 27736-27768                         fattylogcat                 JNI: Token str after construct: ' -' (length 2)
+2025-12-17 21:52:23.980 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' -'
+2025-12-17 21:52:23.980 27736-27768 FattyAI                 fattylogcat                 Received token: ' -'
+2025-12-17 21:52:23.982 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 21131 at pos 63
+2025-12-17 21:52:23.982 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=63
+2025-12-17 21:52:24.029 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Sit, Hex: 20 53 69 74 
+2025-12-17 21:52:24.029 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Sit' (length 4)
+2025-12-17 21:52:24.029 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Sit'
+2025-12-17 21:52:24.029 27736-27768 FattyAI                 fattylogcat                 Received token: ' Sit'
+2025-12-17 21:52:24.033 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 6605 at pos 64
+2025-12-17 21:52:24.033 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=64
+2025-12-17 21:52:24.079 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer: uated, Hex: 75 61 74 65 64 
+2025-12-17 21:52:24.079 27736-27768                         fattylogcat                 JNI: Token str after construct: 'uated' (length 5)
+2025-12-17 21:52:24.080 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'uated'
+2025-12-17 21:52:24.080 27736-27768 FattyAI                 fattylogcat                 Received token: 'uated'
+2025-12-17 21:52:24.082 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 826 at pos 65
+2025-12-17 21:52:24.082 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=65
+2025-12-17 21:52:24.127 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  right, Hex: 20 72 69 67 68 74 
+2025-12-17 21:52:24.127 27736-27768                         fattylogcat                 JNI: Token str after construct: ' right' (length 6)
+2025-12-17 21:52:24.127 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' right'
+2025-12-17 21:52:24.127 27736-27768 FattyAI                 fattylogcat                 Received token: ' right'
+2025-12-17 21:52:24.129 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 287 at pos 66
+2025-12-17 21:52:24.129 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=66
+2025-12-17 21:52:24.181 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  in, Hex: 20 69 6e 
+2025-12-17 21:52:24.181 27736-27768                         fattylogcat                 JNI: Token str after construct: ' in' (length 3)
+2025-12-17 21:52:24.181 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' in'
+2025-12-17 21:52:24.181 27736-27768 FattyAI                 fattylogcat                 Received token: ' in'
+2025-12-17 21:52:24.184 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 262 at pos 67
+2025-12-17 21:52:24.184 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=67
+2025-12-17 21:52:24.234 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  the, Hex: 20 74 68 65 
+2025-12-17 21:52:24.234 27736-27768                         fattylogcat                 JNI: Token str after construct: ' the' (length 4)
+2025-12-17 21:52:24.234 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' the'
+2025-12-17 21:52:24.234 27736-27768 FattyAI                 fattylogcat                 Received token: ' the'
+2025-12-17 21:52:24.236 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 2612 at pos 68
+2025-12-17 21:52:24.236 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=68
+2025-12-17 21:52:24.288 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  heart, Hex: 20 68 65 61 72 74 
+2025-12-17 21:52:24.288 27736-27768                         fattylogcat                 JNI: Token str after construct: ' heart' (length 6)
+2025-12-17 21:52:24.288 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' heart'
+2025-12-17 21:52:24.288 27736-27768 FattyAI                 fattylogcat                 Received token: ' heart'
+2025-12-17 21:52:24.290 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 286 at pos 69
+2025-12-17 21:52:24.290 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=69
+2025-12-17 21:52:24.336 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  of, Hex: 20 6f 66 
+2025-12-17 21:52:24.336 27736-27768                         fattylogcat                 JNI: Token str after construct: ' of' (length 3)
+2025-12-17 21:52:24.336 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' of'
+2025-12-17 21:52:24.336 27736-27768 FattyAI                 fattylogcat                 Received token: ' of'
+2025-12-17 21:52:24.338 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12551 at pos 70
+2025-12-17 21:52:24.338 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=70
+2025-12-17 21:52:24.404 27736-27768                         fattylogcat                 JNI: Detokenize chars = 10, raw buffer:  Singapore, Hex: 20 53 69 6e 67 61 70 6f 72 65 
+2025-12-17 21:52:24.404 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Singapore' (length 10)
+2025-12-17 21:52:24.404 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Singapore'
+2025-12-17 21:52:24.404 27736-27768 FattyAI                 fattylogcat                 Received token: ' Singapore'
+2025-12-17 21:52:24.406 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 25657 at pos 71
+2025-12-17 21:52:24.406 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=71
+2025-12-17 21:52:24.473 27736-27768                         fattylogcat                 JNI: Detokenize chars = 9, raw buffer:  Downtown, Hex: 20 44 6f 77 6e 74 6f 77 6e 
+2025-12-17 21:52:24.473 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Downtown' (length 9)
+2025-12-17 21:52:24.473 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Downtown'
+2025-12-17 21:52:24.473 27736-27768 FattyAI                 fattylogcat                 Received token: ' Downtown'
+2025-12-17 21:52:24.475 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 7231 at pos 72
+2025-12-17 21:52:24.475 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=72
+2025-12-17 21:52:24.528 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer:  Core, Hex: 20 43 6f 72 65 
+2025-12-17 21:52:24.528 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Core' (length 5)
+2025-12-17 21:52:24.528 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Core'
+2025-12-17 21:52:24.529 27736-27768 FattyAI                 fattylogcat                 Received token: ' Core'
+2025-12-17 21:52:24.531 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 11 at pos 73
+2025-12-17 21:52:24.531 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=73
+2025-12-17 21:52:24.572 27736-27757 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:24.601 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ,, Hex: 2c 
+2025-12-17 21:52:24.601 27736-27768                         fattylogcat                 JNI: Token str after construct: ',' (length 1)
+2025-12-17 21:52:24.601 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ','
+2025-12-17 21:52:24.601 27736-27768 FattyAI                 fattylogcat                 Received token: ','
+2025-12-17 21:52:24.603 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 37250 at pos 74
+2025-12-17 21:52:24.603 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=74
+2025-12-17 21:52:24.664 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  [', Hex: 20 5b 27 
+2025-12-17 21:52:24.664 27736-27768                         fattylogcat                 JNI: Token str after construct: ' ['' (length 3)
+2025-12-17 21:52:24.664 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' [''
+2025-12-17 21:52:24.664 27736-27768 FattyAI                 fattylogcat                 Received token: ' [''
+2025-12-17 21:52:24.665 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 7676 at pos 75
+2025-12-17 21:52:24.665 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=75
+2025-12-17 21:52:24.722 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: Mar, Hex: 4d 61 72 
+2025-12-17 21:52:24.722 27736-27768                         fattylogcat                 JNI: Token str after construct: 'Mar' (length 3)
+2025-12-17 21:52:24.722 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'Mar'
+2025-12-17 21:52:24.722 27736-27768 FattyAI                 fattylogcat                 Received token: 'Mar'
+2025-12-17 21:52:24.724 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 1437 at pos 76
+2025-12-17 21:52:24.724 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=76
+2025-12-17 21:52:24.774 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: ina, Hex: 69 6e 61 
+2025-12-17 21:52:24.774 27736-27768                         fattylogcat                 JNI: Token str after construct: 'ina' (length 3)
+2025-12-17 21:52:24.774 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'ina'
+2025-12-17 21:52:24.775 27736-27768 FattyAI                 fattylogcat                 Received token: 'ina'
+2025-12-17 21:52:24.777 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 4696 at pos 77
+2025-12-17 21:52:24.777 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=77
+2025-12-17 21:52:24.856 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Bay, Hex: 20 42 61 79 
+2025-12-17 21:52:24.856 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Bay' (length 4)
+2025-12-17 21:52:24.856 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Bay'
+2025-12-17 21:52:24.856 27736-27768 FattyAI                 fattylogcat                 Received token: ' Bay'
+2025-12-17 21:52:24.858 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 35359 at pos 78
+2025-12-17 21:52:24.858 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=78
+2025-12-17 21:52:24.890 27736-27757 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:24.916 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  Sands, Hex: 20 53 61 6e 64 73 
+2025-12-17 21:52:24.916 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Sands' (length 6)
+2025-12-17 21:52:24.916 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Sands'
+2025-12-17 21:52:24.916 27736-27768 FattyAI                 fattylogcat                 Received token: ' Sands'
+2025-12-17 21:52:24.918 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 10545 at pos 79
+2025-12-17 21:52:24.918 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=79
+2025-12-17 21:52:24.974 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  ?, Hex: 20 e6 
+2025-12-17 21:52:24.974 27736-27768                         fattylogcat                 JNI: Token str after construct: ' ?' (length 2)
+2025-12-17 21:52:24.974 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: 20 e6 
+2025-12-17 21:52:24.975 27736-27768                         fattylogcat                 JNI: Sampled token 244 at pos 80
+2025-12-17 21:52:24.976 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=80
+2025-12-17 21:52:25.026 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 96 
+2025-12-17 21:52:25.026 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.026 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 3 bytes, hex: Hex: 96 
+2025-12-17 21:52:25.028 27736-27768                         fattylogcat                 JNI: Sampled token 108 at pos 81
+2025-12-17 21:52:25.028 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=81
+2025-12-17 21:52:25.073 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: b0 
+2025-12-17 21:52:25.074 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.074 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 新'
+2025-12-17 21:52:25.074 27736-27768 FattyAI                 fattylogcat                 Received token: ' 新'
+2025-12-17 21:52:25.076 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 27950 at pos 82
+2025-12-17 21:52:25.076 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=82
+2025-12-17 21:52:25.105 27736-27757 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:25.126 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 2, raw buffer: ?, Hex: e5 8a 
+2025-12-17 21:52:25.126 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 2)
+2025-12-17 21:52:25.126 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: e5 8a 
+2025-12-17 21:52:25.128 27736-27768                         fattylogcat                 JNI: Sampled token 254 at pos 83
+2025-12-17 21:52:25.128 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=83
+2025-12-17 21:52:25.199 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: a0 
+2025-12-17 21:52:25.199 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.199 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '加'
+2025-12-17 21:52:25.199 27736-27768 FattyAI                 fattylogcat                 Received token: '加'
+2025-12-17 21:52:25.201 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 161 at pos 84
+2025-12-17 21:52:25.201 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=84
+2025-12-17 21:52:25.260 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: e5 
+2025-12-17 21:52:25.260 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.260 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 1 bytes, hex: Hex: e5 
+2025-12-17 21:52:25.262 27736-27768                         fattylogcat                 JNI: Sampled token 251 at pos 85
+2025-12-17 21:52:25.262 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=85
+2025-12-17 21:52:25.312 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 9d 
+2025-12-17 21:52:25.312 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.312 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: 9d 
+2025-12-17 21:52:25.313 27736-27768                         fattylogcat                 JNI: Sampled token 94 at pos 86
+2025-12-17 21:52:25.313 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=86
+2025-12-17 21:52:25.361 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: a1 
+2025-12-17 21:52:25.361 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.361 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '坡'
+2025-12-17 21:52:25.361 27736-27768 FattyAI                 fattylogcat                 Received token: '坡'
+2025-12-17 21:52:25.363 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 34932 at pos 87
+2025-12-17 21:52:25.363 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=87
+2025-12-17 21:52:25.436 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: ?, Hex: e9 87 
+2025-12-17 21:52:25.436 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 2)
+2025-12-17 21:52:25.436 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: e9 87 
+2025-12-17 21:52:25.438 27736-27768                         fattylogcat                 JNI: Sampled token 239 at pos 88
+2025-12-17 21:52:25.438 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=88
+2025-12-17 21:52:25.517 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 91 
+2025-12-17 21:52:25.517 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.517 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '金'
+2025-12-17 21:52:25.518 27736-27768 FattyAI                 fattylogcat                 Received token: '金'
+2025-12-17 21:52:25.519 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 162 at pos 89
+2025-12-17 21:52:25.519 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=89
+2025-12-17 21:52:25.573 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: e6 
+2025-12-17 21:52:25.573 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.573 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 1 bytes, hex: Hex: e6 
+2025-12-17 21:52:25.575 27736-27768                         fattylogcat                 JNI: Sampled token 110 at pos 90
+2025-12-17 21:52:25.575 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=90
+2025-12-17 21:52:25.623 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: b2 
+2025-12-17 21:52:25.623 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.623 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: b2 
+2025-12-17 21:52:25.625 27736-27768                         fattylogcat                 JNI: Sampled token 247 at pos 91
+2025-12-17 21:52:25.625 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=91
+2025-12-17 21:52:25.672 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 99 
+2025-12-17 21:52:25.672 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.672 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '沙'
+2025-12-17 21:52:25.673 27736-27768 FattyAI                 fattylogcat                 Received token: '沙'
+2025-12-17 21:52:25.674 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 161 at pos 92
+2025-12-17 21:52:25.674 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=92
+2025-12-17 21:52:25.724 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: e5 
+2025-12-17 21:52:25.724 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.724 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 1 bytes, hex: Hex: e5 
+2025-12-17 21:52:25.726 27736-27768                         fattylogcat                 JNI: Sampled token 101 at pos 93
+2025-12-17 21:52:25.726 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=93
+2025-12-17 21:52:25.772 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: a8 
+2025-12-17 21:52:25.772 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.772 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: a8 
+2025-12-17 21:52:25.773 27736-27768                         fattylogcat                 JNI: Sampled token 109 at pos 94
+2025-12-17 21:52:25.774 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=94
+2025-12-17 21:52:25.842 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: b1 
+2025-12-17 21:52:25.842 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.842 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '娱'
+2025-12-17 21:52:25.842 27736-27768 FattyAI                 fattylogcat                 Received token: '娱'
+2025-12-17 21:52:25.844 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 20046 at pos 95
+2025-12-17 21:52:25.844 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=95
+2025-12-17 21:52:25.899 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: ?, Hex: e4 b9 
+2025-12-17 21:52:25.899 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 2)
+2025-12-17 21:52:25.899 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: e4 b9 
+2025-12-17 21:52:25.902 27736-27768                         fattylogcat                 JNI: Sampled token 238 at pos 96
+2025-12-17 21:52:25.902 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=96
+2025-12-17 21:52:25.953 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 90 
+2025-12-17 21:52:25.953 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:25.953 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '乐'
+2025-12-17 21:52:25.953 27736-27768 FattyAI                 fattylogcat                 Received token: '乐'
+2025-12-17 21:52:25.955 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 163 at pos 97
+2025-12-17 21:52:25.955 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=97
+2025-12-17 21:52:26.005 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: e7 
+2025-12-17 21:52:26.005 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.005 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 1 bytes, hex: Hex: e7 
+2025-12-17 21:52:26.007 27736-27768                         fattylogcat                 JNI: Sampled token 119 at pos 98
+2025-12-17 21:52:26.007 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=98
+2025-12-17 21:52:26.060 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: bb 
+2025-12-17 21:52:26.060 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.060 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: bb 
+2025-12-17 21:52:26.062 27736-27768                         fattylogcat                 JNI: Sampled token 120 at pos 99
+2025-12-17 21:52:26.062 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=99
+2025-12-17 21:52:26.161 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: bc 
+2025-12-17 21:52:26.161 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.161 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '综'
+2025-12-17 21:52:26.161 27736-27768 FattyAI                 fattylogcat                 Received token: '综'
+2025-12-17 21:52:26.168 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 28938 at pos 100
+2025-12-17 21:52:26.168 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=100
+2025-12-17 21:52:26.286 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: ?, Hex: e5 90 
+2025-12-17 21:52:26.286 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 2)
+2025-12-17 21:52:26.286 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: e5 90 
+2025-12-17 21:52:26.288 27736-27768                         fattylogcat                 JNI: Sampled token 230 at pos 101
+2025-12-17 21:52:26.288 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=101
+2025-12-17 21:52:26.365 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 88 
+2025-12-17 21:52:26.365 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.365 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '合'
+2025-12-17 21:52:26.366 27736-27768 FattyAI                 fattylogcat                 Received token: '合'
+2025-12-17 21:52:26.368 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 161 at pos 102
+2025-12-17 21:52:26.368 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=102
+2025-12-17 21:52:26.455 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: e5 
+2025-12-17 21:52:26.455 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.455 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 1 bytes, hex: Hex: e5 
+2025-12-17 21:52:26.457 27736-27768                         fattylogcat                 JNI: Sampled token 253 at pos 103
+2025-12-17 21:52:26.457 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=103
+2025-12-17 21:52:26.533 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 9f 
+2025-12-17 21:52:26.533 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.533 27736-27768                         fattylogcat                 JNI: Invalid/incomplete UTF-8, buffering: 2 bytes, hex: Hex: 9f 
+2025-12-17 21:52:26.535 27736-27768                         fattylogcat                 JNI: Sampled token 236 at pos 104
+2025-12-17 21:52:26.535 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=104
+2025-12-17 21:52:26.584 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: ?, Hex: 8e 
+2025-12-17 21:52:26.584 27736-27768                         fattylogcat                 JNI: Token str after construct: '?' (length 1)
+2025-12-17 21:52:26.584 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '城'
+2025-12-17 21:52:26.584 27736-27768 FattyAI                 fattylogcat                 Received token: '城'
+2025-12-17 21:52:26.586 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 851 at pos 105
+2025-12-17 21:52:26.586 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=105
+2025-12-17 21:52:26.660 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  —, Hex: 20 e2 80 94 
+2025-12-17 21:52:26.660 27736-27768                         fattylogcat                 JNI: Token str after construct: ' —' (length 4)
+2025-12-17 21:52:26.660 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' —'
+2025-12-17 21:52:26.660 27736-27768 FattyAI                 fattylogcat                 Received token: ' —'
+2025-12-17 21:52:26.662 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 17917 at pos 106
+2025-12-17 21:52:26.662 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=106
+2025-12-17 21:52:26.724 27736-27768                         fattylogcat                 JNI: Detokenize chars = 8, raw buffer:  Address, Hex: 20 41 64 64 72 65 73 73 
+2025-12-17 21:52:26.724 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Address' (length 8)
+2025-12-17 21:52:26.724 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Address'
+2025-12-17 21:52:26.724 27736-27768 FattyAI                 fattylogcat                 Received token: ' Address'
+2025-12-17 21:52:26.726 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 318 at pos 107
+2025-12-17 21:52:26.726 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=107
+2025-12-17 21:52:26.758 27736-27757 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:26.776 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  is, Hex: 20 69 73 
+2025-12-17 21:52:26.776 27736-27768                         fattylogcat                 JNI: Token str after construct: ' is' (length 3)
+2025-12-17 21:52:26.776 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' is'
+2025-12-17 21:52:26.776 27736-27768 FattyAI                 fattylogcat                 Received token: ' is'
+2025-12-17 21:52:26.778 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 838 at pos 108
+2025-12-17 21:52:26.778 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=108
+2025-12-17 21:52:26.824 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  10, Hex: 20 31 30 
+2025-12-17 21:52:26.824 27736-27768                         fattylogcat                 JNI: Token str after construct: ' 10' (length 3)
+2025-12-17 21:52:26.824 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 10'
+2025-12-17 21:52:26.824 27736-27768 FattyAI                 fattylogcat                 Received token: ' 10'
+2025-12-17 21:52:26.826 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 4696 at pos 109
+2025-12-17 21:52:26.826 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=109
+2025-12-17 21:52:26.877 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Bay, Hex: 20 42 61 79 
+2025-12-17 21:52:26.877 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Bay' (length 4)
+2025-12-17 21:52:26.877 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Bay'
+2025-12-17 21:52:26.878 27736-27768 FattyAI                 fattylogcat                 Received token: ' Bay'
+2025-12-17 21:52:26.879 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 8534 at pos 110
+2025-12-17 21:52:26.879 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=110
+2025-12-17 21:52:26.953 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer: front, Hex: 66 72 6f 6e 74 
+2025-12-17 21:52:26.953 27736-27768                         fattylogcat                 JNI: Token str after construct: 'front' (length 5)
+2025-12-17 21:52:26.953 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'front'
+2025-12-17 21:52:26.953 27736-27768 FattyAI                 fattylogcat                 Received token: 'front'
+2025-12-17 21:52:26.955 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 8878 at pos 111
+2025-12-17 21:52:26.955 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=111
+2025-12-17 21:52:27.016 27736-27768                         fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  Avenue, Hex: 20 41 76 65 6e 75 65 
+2025-12-17 21:52:27.016 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Avenue' (length 7)
+2025-12-17 21:52:27.017 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Avenue'
+2025-12-17 21:52:27.017 27736-27768 FattyAI                 fattylogcat                 Received token: ' Avenue'
+2025-12-17 21:52:27.019 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12551 at pos 112
+2025-12-17 21:52:27.019 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=112
+2025-12-17 21:52:27.067 27736-27768                         fattylogcat                 JNI: Detokenize chars = 10, raw buffer:  Singapore, Hex: 20 53 69 6e 67 61 70 6f 72 65 
+2025-12-17 21:52:27.067 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Singapore' (length 10)
+2025-12-17 21:52:27.067 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Singapore'
+2025-12-17 21:52:27.067 27736-27768 FattyAI                 fattylogcat                 Received token: ' Singapore'
+2025-12-17 21:52:27.069 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 5534 at pos 113
+2025-12-17 21:52:27.069 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=113
+2025-12-17 21:52:27.119 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  01, Hex: 20 30 31 
+2025-12-17 21:52:27.119 27736-27768                         fattylogcat                 JNI: Token str after construct: ' 01' (length 3)
+2025-12-17 21:52:27.119 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 01'
+2025-12-17 21:52:27.119 27736-27768 FattyAI                 fattylogcat                 Received token: ' 01'
+2025-12-17 21:52:27.121 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 23 at pos 114
+2025-12-17 21:52:27.121 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=114
+2025-12-17 21:52:27.168 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: 8, Hex: 38 
+2025-12-17 21:52:27.168 27736-27768                         fattylogcat                 JNI: Token str after construct: '8' (length 1)
+2025-12-17 21:52:27.168 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '8'
+2025-12-17 21:52:27.168 27736-27768 FattyAI                 fattylogcat                 Received token: '8'
+2025-12-17 21:52:27.170 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 50148 at pos 115
+2025-12-17 21:52:27.170 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=115
+2025-12-17 21:52:27.241 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: 956, Hex: 39 35 36 
+2025-12-17 21:52:27.241 27736-27768                         fattylogcat                 JNI: Token str after construct: '956' (length 3)
+2025-12-17 21:52:27.241 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '956'
+2025-12-17 21:52:27.241 27736-27768 FattyAI                 fattylogcat                 Received token: '956'
+2025-12-17 21:52:27.243 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 14128 at pos 116
+2025-12-17 21:52:27.243 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=116
+2025-12-17 21:52:27.298 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  ·, Hex: 20 c2 b7 
+2025-12-17 21:52:27.299 27736-27768                         fattylogcat                 JNI: Token str after construct: ' ·' (length 3)
+2025-12-17 21:52:27.299 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' ·'
+2025-12-17 21:52:27.299 27736-27768 FattyAI                 fattylogcat                 Received token: ' ·'
+2025-12-17 21:52:27.301 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 12088 at pos 117
+2025-12-17 21:52:27.301 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=117
+2025-12-17 21:52:27.360 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Tel, Hex: 20 54 65 6c 
+2025-12-17 21:52:27.360 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Tel' (length 4)
+2025-12-17 21:52:27.360 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Tel'
+2025-12-17 21:52:27.361 27736-27768 FattyAI                 fattylogcat                 Received token: ' Tel'
+2025-12-17 21:52:27.362 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 25 at pos 118
+2025-12-17 21:52:27.362 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=118
+2025-12-17 21:52:27.414 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: :, Hex: 3a 
+2025-12-17 21:52:27.414 27736-27768                         fattylogcat                 JNI: Token str after construct: ':' (length 1)
+2025-12-17 21:52:27.414 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ':'
+2025-12-17 21:52:27.414 27736-27768 FattyAI                 fattylogcat                 Received token: ':'
+2025-12-17 21:52:27.417 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 718 at pos 119
+2025-12-17 21:52:27.417 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=119
+2025-12-17 21:52:27.464 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  6, Hex: 20 36 
+2025-12-17 21:52:27.464 27736-27768                         fattylogcat                 JNI: Token str after construct: ' 6' (length 2)
+2025-12-17 21:52:27.464 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 6'
+2025-12-17 21:52:27.464 27736-27768 FattyAI                 fattylogcat                 Received token: ' 6'
+2025-12-17 21:52:27.466 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 34427 at pos 120
+2025-12-17 21:52:27.466 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=120
+2025-12-17 21:52:27.518 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: 688, Hex: 36 38 38 
+2025-12-17 21:52:27.518 27736-27768                         fattylogcat                 JNI: Token str after construct: '688' (length 3)
+2025-12-17 21:52:27.518 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '688'
+2025-12-17 21:52:27.518 27736-27768 FattyAI                 fattylogcat                 Received token: '688'
+2025-12-17 21:52:27.520 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 9193 at pos 121
+2025-12-17 21:52:27.520 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=121
+2025-12-17 21:52:27.570 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  88, Hex: 20 38 38 
+2025-12-17 21:52:27.570 27736-27768                         fattylogcat                 JNI: Token str after construct: ' 88' (length 3)
+2025-12-17 21:52:27.570 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' 88'
+2025-12-17 21:52:27.570 27736-27768 FattyAI                 fattylogcat                 Received token: ' 88'
+2025-12-17 21:52:27.572 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 3104 at pos 122
+2025-12-17 21:52:27.572 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=122
+2025-12-17 21:52:27.618 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: 68, Hex: 36 38 
+2025-12-17 21:52:27.618 27736-27768                         fattylogcat                 JNI: Token str after construct: '68' (length 2)
+2025-12-17 21:52:27.618 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '68'
+2025-12-17 21:52:27.618 27736-27768 FattyAI                 fattylogcat                 Received token: '68'
+2025-12-17 21:52:27.620 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 20520 at pos 123
+2025-12-17 21:52:27.620 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=123
+2025-12-17 21:52:27.667 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: '], Hex: 27 5d 
+2025-12-17 21:52:27.667 27736-27768                         fattylogcat                 JNI: Token str after construct: '']' (length 2)
+2025-12-17 21:52:27.667 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: '']'
+2025-12-17 21:52:27.667 27736-27768 FattyAI                 fattylogcat                 Received token: '']'
+2025-12-17 21:52:27.669 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 220 at pos 124
+2025-12-17 21:52:27.669 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=124
+2025-12-17 21:52:27.707 27736-27757 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:27.716 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 1, raw buffer:  , Hex: 20 
+2025-12-17 21:52:27.716 27736-27768                         fattylogcat                 JNI: Token str after construct: ' ' (length 1)
+2025-12-17 21:52:27.716 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' '
+2025-12-17 21:52:27.716 27736-27768 FattyAI                 fattylogcat                 Received token: ' '
+2025-12-17 21:52:27.718 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 532 at pos 125
+2025-12-17 21:52:27.718 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=125
+2025-12-17 21:52:27.764 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  -, Hex: 20 2d 
+2025-12-17 21:52:27.764 27736-27768                         fattylogcat                 JNI: Token str after construct: ' -' (length 2)
+2025-12-17 21:52:27.764 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' -'
+2025-12-17 21:52:27.764 27736-27768 FattyAI                 fattylogcat                 Received token: ' -'
+2025-12-17 21:52:27.767 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 337 at pos 126
+2025-12-17 21:52:27.767 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=126
+2025-12-17 21:52:27.814 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  M, Hex: 20 4d 
+2025-12-17 21:52:27.814 27736-27768                         fattylogcat                 JNI: Token str after construct: ' M' (length 2)
+2025-12-17 21:52:27.814 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' M'
+2025-12-17 21:52:27.814 27736-27768 FattyAI                 fattylogcat                 Received token: ' M'
+2025-12-17 21:52:27.816 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 4462 at pos 127
+2025-12-17 21:52:27.816 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=127
+2025-12-17 21:52:27.884 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: BS, Hex: 42 53 
+2025-12-17 21:52:27.884 27736-27768                         fattylogcat                 JNI: Token str after construct: 'BS' (length 2)
+2025-12-17 21:52:27.884 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'BS'
+2025-12-17 21:52:27.884 27736-27768 FattyAI                 fattylogcat                 Received token: 'BS'
+2025-12-17 21:52:27.886 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 14258 at pos 128
+2025-12-17 21:52:27.886 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=128
+2025-12-17 21:52:27.940 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer:  Drop, Hex: 20 44 72 6f 70 
+2025-12-17 21:52:27.940 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Drop' (length 5)
+2025-12-17 21:52:27.940 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Drop'
+2025-12-17 21:52:27.940 27736-27768 FattyAI                 fattylogcat                 Received token: ' Drop'
+2025-12-17 21:52:27.942 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 2364 at pos 129
+2025-12-17 21:52:27.942 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=129
+2025-12-17 21:52:27.997 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer: off, Hex: 6f 66 66 
+2025-12-17 21:52:27.997 27736-27768                         fattylogcat                 JNI: Token str after construct: 'off' (length 3)
+2025-12-17 21:52:27.997 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'off'
+2025-12-17 21:52:27.997 27736-27768 FattyAI                 fattylogcat                 Received token: 'off'
+2025-12-17 21:52:27.999 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 11045 at pos 130
+2025-12-17 21:52:27.999 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=130
+2025-12-17 21:52:28.048 27736-27768                         fattylogcat                 JNI: Detokenize chars = 7, raw buffer:  Points, Hex: 20 50 6f 69 6e 74 73 
+2025-12-17 21:52:28.048 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Points' (length 7)
+2025-12-17 21:52:28.048 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Points'
+2025-12-17 21:52:28.048 27736-27768 FattyAI                 fattylogcat                 Received token: ' Points'
+2025-12-17 21:52:28.050 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 25 at pos 131
+2025-12-17 21:52:28.050 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=131
+2025-12-17 21:52:28.101 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: :, Hex: 3a 
+2025-12-17 21:52:28.101 27736-27768                         fattylogcat                 JNI: Token str after construct: ':' (length 1)
+2025-12-17 21:52:28.101 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ':'
+2025-12-17 21:52:28.102 27736-27768 FattyAI                 fattylogcat                 Received token: ':'
+2025-12-17 21:52:28.103 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 8765 at pos 132
+2025-12-17 21:52:28.103 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=132
+2025-12-17 21:52:28.155 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  Tower, Hex: 20 54 6f 77 65 72 
+2025-12-17 21:52:28.155 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Tower' (length 6)
+2025-12-17 21:52:28.155 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Tower'
+2025-12-17 21:52:28.155 27736-27768 FattyAI                 fattylogcat                 Received token: ' Tower'
+2025-12-17 21:52:28.157 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 1881 at pos 133
+2025-12-17 21:52:28.157 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=133
+2025-12-17 21:52:28.231 27736-27768                         fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  One, Hex: 20 4f 6e 65 
+2025-12-17 21:52:28.231 27736-27768                         fattylogcat                 JNI: Token str after construct: ' One' (length 4)
+2025-12-17 21:52:28.231 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' One'
+2025-12-17 21:52:28.231 27736-27768 FattyAI                 fattylogcat                 Received token: ' One'
+2025-12-17 21:52:28.233 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 393 at pos 134
+2025-12-17 21:52:28.233 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=134
+2025-12-17 21:52:28.287 27736-27768                         fattylogcat                 JNI: Detokenize chars = 3, raw buffer:  or, Hex: 20 6f 72 
+2025-12-17 21:52:28.287 27736-27768                         fattylogcat                 JNI: Token str after construct: ' or' (length 3)
+2025-12-17 21:52:28.287 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' or'
+2025-12-17 21:52:28.287 27736-27768 FattyAI                 fattylogcat                 Received token: ' or'
+2025-12-17 21:52:28.289 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 8765 at pos 135
+2025-12-17 21:52:28.289 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=135
+2025-12-17 21:52:28.339 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  Tower, Hex: 20 54 6f 77 65 72 
+2025-12-17 21:52:28.339 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Tower' (length 6)
+2025-12-17 21:52:28.339 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Tower'
+2025-12-17 21:52:28.339 27736-27768 FattyAI                 fattylogcat                 Received token: ' Tower'
+2025-12-17 21:52:28.341 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 7683 at pos 136
+2025-12-17 21:52:28.341 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=136
+2025-12-17 21:52:28.389 27736-27768                         fattylogcat                 JNI: Detokenize chars = 6, raw buffer:  Three, Hex: 20 54 68 72 65 65 
+2025-12-17 21:52:28.389 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Three' (length 6)
+2025-12-17 21:52:28.389 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Three'
+2025-12-17 21:52:28.389 27736-27768 FattyAI                 fattylogcat                 Received token: ' Three'
+2025-12-17 21:52:28.391 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 1220 at pos 137
+2025-12-17 21:52:28.391 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=137
+2025-12-17 21:52:28.442 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  /, Hex: 20 2f 
+2025-12-17 21:52:28.442 27736-27768                         fattylogcat                 JNI: Token str after construct: ' /' (length 2)
+2025-12-17 21:52:28.442 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' /'
+2025-12-17 21:52:28.442 27736-27768 FattyAI                 fattylogcat                 Received token: ' /'
+2025-12-17 21:52:28.444 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 337 at pos 138
+2025-12-17 21:52:28.444 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=138
+2025-12-17 21:52:28.494 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer:  M, Hex: 20 4d 
+2025-12-17 21:52:28.494 27736-27768                         fattylogcat                 JNI: Token str after construct: ' M' (length 2)
+2025-12-17 21:52:28.494 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' M'
+2025-12-17 21:52:28.494 27736-27768 FattyAI                 fattylogcat                 Received token: ' M'
+2025-12-17 21:52:28.496 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 14181 at pos 139
+2025-12-17 21:52:28.496 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=139
+2025-12-17 21:52:28.543 27736-27768                         fattylogcat                 JNI: Detokenize chars = 2, raw buffer: RT, Hex: 52 54 
+2025-12-17 21:52:28.543 27736-27768                         fattylogcat                 JNI: Token str after construct: 'RT' (length 2)
+2025-12-17 21:52:28.543 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'RT'
+2025-12-17 21:52:28.543 27736-27768 FattyAI                 fattylogcat                 Received token: 'RT'
+2025-12-17 21:52:28.546 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 9327 at pos 140
+2025-12-17 21:52:28.546 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=140
+2025-12-17 21:52:28.593 27736-27768                         fattylogcat                 JNI: Detokenize chars = 8, raw buffer:  Station, Hex: 20 53 74 61 74 69 6f 6e 
+2025-12-17 21:52:28.593 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Station' (length 8)
+2025-12-17 21:52:28.593 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Station'
+2025-12-17 21:52:28.593 27736-27768 FattyAI                 fattylogcat                 Received token: ' Station'
+2025-12-17 21:52:28.595 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 25 at pos 141
+2025-12-17 21:52:28.596 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=141
+2025-12-17 21:52:28.667 27736-27768                         fattylogcat                 JNI: Detokenize chars = 1, raw buffer: :, Hex: 3a 
+2025-12-17 21:52:28.667 27736-27768                         fattylogcat                 JNI: Token str after construct: ':' (length 1)
+2025-12-17 21:52:28.667 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ':'
+2025-12-17 21:52:28.667 27736-27768 FattyAI                 fattylogcat                 Received token: ':'
+2025-12-17 21:52:28.669 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 4696 at pos 142
+2025-12-17 21:52:28.669 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=142
+2025-12-17 21:52:28.720 27736-27751 OpenGLRenderer          fattylogcat                 gpu complete fence is not signaled
+2025-12-17 21:52:28.751 27736-27768 Fattylogcat             fattylogcat                 JNI: Detokenize chars = 4, raw buffer:  Bay, Hex: 20 42 61 79 
+2025-12-17 21:52:28.751 27736-27768                         fattylogcat                 JNI: Token str after construct: ' Bay' (length 4)
+2025-12-17 21:52:28.751 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: ' Bay'
+2025-12-17 21:52:28.751 27736-27768 FattyAI                 fattylogcat                 Received token: ' Bay'
+2025-12-17 21:52:28.753 27736-27768 Fattylogcat             fattylogcat                 JNI: Sampled token 8534 at pos 143
+2025-12-17 21:52:28.753 27736-27768                         fattylogcat                 JNI: Decoding single token, n_past=143
+2025-12-17 21:52:28.803 27736-27768                         fattylogcat                 JNI: Detokenize chars = 5, raw buffer: front, Hex: 66 72 6f 6e 74 
+2025-12-17 21:52:28.803 27736-27768                         fattylogcat                 JNI: Token str after construct: 'front' (length 5)
+2025-12-17 21:52:28.803 27736-27768                         fattylogcat                 JNI: Valid UTF-8 buffer: 'front'
+2025-12-17 21:52:28.803 27736-27768 FattyAI                 fattylogcat                 Received token: 'front'
+2025-12-17 21:52:28.806 27736-27768 FattyAI                 fattylogcat                 Generation completed
