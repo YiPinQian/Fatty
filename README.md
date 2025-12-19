@@ -37,3 +37,5 @@ Query: "what is mbs"
 - 100% offline, no internet needed
 
 See full log: [fattylogcat.txt](/fattylogcat.txt)
+
+Trial Testing APK Download: https://github.com/YiPinQian/Fatty/releases/tag/v1.6-beta
