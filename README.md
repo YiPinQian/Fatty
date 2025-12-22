@@ -39,3 +39,5 @@ Query: "what is mbs"
 See full log: [fattylogcat.txt](/fattylogcat.txt)
 
 Trial Testing APK Download: https://github.com/YiPinQian/Fatty/releases/tag/v1.6-beta
+
+Google Play Store Testing APK Link https://play.google.com/apps/test/com.yipinqian.fattyai/2
