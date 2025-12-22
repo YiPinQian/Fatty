@@ -42,3 +42,5 @@ Trial Testing APK Download: https://github.com/YiPinQian/Fatty/releases/tag/v1.6
 
 Google Play Store Testing APK Link Throught Web: https://play.google.com/apps/testing/com.yipinqian.fattyai
 Google Play Store Testing APK Through Android : https://play.google.com/store/apps/details?id=com.yipinqian.fattyai
+
+(We have check and find that devices may not allow to install throgh google, however Fatty support device from 4gb onwards. thanks) 
