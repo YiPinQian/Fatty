@@ -40,4 +40,4 @@ See full log: [fattylogcat.txt](/fattylogcat.txt)
 
 Trial Testing APK Download: https://github.com/YiPinQian/Fatty/releases/tag/v1.6-beta
 
-
+Google Play Store Link for web installation: https://play.google.com/apps/testing/com.yipinqian.fattyai
