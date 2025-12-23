@@ -1,5 +1,5 @@
 
-2025-12-24 04:28:50.544 32481-32513                         com.yipinqian.fattyai               JNI: Prompt after lowercase: hey
+2025-12-24 04:28:50.544 32481-32513                         com.yipinqian.fattyai               JNI: Prompt after : hey
 2025-12-24 04:28:50.555 32481-32513                         com.yipinqian.fattyai               JNI: Tokenized prompt into 15 tokens
 2025-12-24 04:28:50.555 32481-32513                         com.yipinqian.fattyai               JNI: Decoding batch 0-14, n_tokens=15, n_past=0
 2025-12-24 04:28:52.001 32481-32481 FattyAI                 com.yipinqian.fattyai               Failsafe timeout triggered - unlocking UI
@@ -112,4 +112,5 @@
 2025-12-24 04:28:52.320 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: '?'
 2025-12-24 04:28:52.321 32481-32513 FattyAI                 com.yipinqian.fattyai               Generation completed
 2025-12-24 04:28:52.321 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Generation completed. Total tokens generated: 17
+
 
