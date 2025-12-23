@@ -1,0 +1,115 @@
+
+2025-12-24 04:28:50.544 32481-32513                         com.yipinqian.fattyai               JNI: Prompt after lowercase: hey
+2025-12-24 04:28:50.555 32481-32513                         com.yipinqian.fattyai               JNI: Tokenized prompt into 15 tokens
+2025-12-24 04:28:50.555 32481-32513                         com.yipinqian.fattyai               JNI: Decoding batch 0-14, n_tokens=15, n_past=0
+2025-12-24 04:28:52.001 32481-32481 FattyAI                 com.yipinqian.fattyai               Failsafe timeout triggered - unlocking UI
+2025-12-24 04:28:52.012 32481-32481                         com.yipinqian.fattyai               UI unlocked after failsafe
+2025-12-24 04:28:52.016 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Decode succeeded for batch 0-14, n_past=15
+2025-12-24 04:28:52.017 32481-32513                         com.yipinqian.fattyai               JNI: Prompt processing complete. n_past: 15
+2025-12-24 04:28:52.017 32481-32513                         com.yipinqian.fattyai               JNI: Starting generation with max_tokens: 512
+2025-12-24 04:28:52.019 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=15
+2025-12-24 04:28:52.055 32481-32513                         com.yipinqian.fattyai               JNI: Sampled token 10814 at pos 16
+2025-12-24 04:28:52.055 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=16
+2025-12-24 04:28:52.072 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 3, raw buffer: Hey, Hex: 48 65 79 
+2025-12-24 04:28:52.072 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: 'Hey' (length 3)
+2025-12-24 04:28:52.072 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: 'Hey'
+2025-12-24 04:28:52.072 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: 'Hey'
+2025-12-24 04:28:52.073 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 616 at pos 17
+2025-12-24 04:28:52.073 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=17
+2025-12-24 04:28:52.088 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 3, raw buffer:  my, Hex: 20 6d 79 
+2025-12-24 04:28:52.088 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' my' (length 3)
+2025-12-24 04:28:52.088 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' my'
+2025-12-24 04:28:52.088 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' my'
+2025-12-24 04:28:52.088 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 1545 at pos 18
+2025-12-24 04:28:52.088 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=18
+2025-12-24 04:28:52.103 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 7, raw buffer:  friend, Hex: 20 66 72 69 65 6e 64 
+2025-12-24 04:28:52.103 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' friend' (length 7)
+2025-12-24 04:28:52.103 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' friend'
+2025-12-24 04:28:52.103 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' friend'
+2025-12-24 04:28:52.104 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 11 at pos 19
+2025-12-24 04:28:52.104 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=19
+2025-12-24 04:28:52.119 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 1, raw buffer: ,, Hex: 2c 
+2025-12-24 04:28:52.119 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ',' (length 1)
+2025-12-24 04:28:52.119 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ','
+2025-12-24 04:28:52.120 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ','
+2025-12-24 04:28:52.120 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 1265 at pos 20
+2025-12-24 04:28:52.120 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=20
+2025-12-24 04:28:52.135 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 4, raw buffer:  ask, Hex: 20 61 73 6b 
+2025-12-24 04:28:52.135 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' ask' (length 4)
+2025-12-24 04:28:52.135 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' ask'
+2025-12-24 04:28:52.135 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' ask'
+2025-12-24 04:28:52.136 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 502 at pos 21
+2025-12-24 04:28:52.136 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=21
+2025-12-24 04:28:52.151 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 3, raw buffer:  me, Hex: 20 6d 65 
+2025-12-24 04:28:52.151 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' me' (length 3)
+2025-12-24 04:28:52.151 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' me'
+2025-12-24 04:28:52.151 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' me'
+2025-12-24 04:28:52.151 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 2683 at pos 22
+2025-12-24 04:28:52.152 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=22
+2025-12-24 04:28:52.167 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 10, raw buffer:  questions, Hex: 20 71 75 65 73 74 69 6f 6e 73 
+2025-12-24 04:28:52.167 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' questions' (length 10)
+2025-12-24 04:28:52.167 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' questions'
+2025-12-24 04:28:52.167 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' questions'
+2025-12-24 04:28:52.167 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 546 at pos 23
+2025-12-24 04:28:52.167 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=23
+2025-12-24 04:28:52.182 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 6, raw buffer:  about, Hex: 20 61 62 6f 75 74 
+2025-12-24 04:28:52.183 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' about' (length 6)
+2025-12-24 04:28:52.183 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' about'
+2025-12-24 04:28:52.183 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' about'
+2025-12-24 04:28:52.183 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 12551 at pos 24
+2025-12-24 04:28:52.183 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=24
+2025-12-24 04:28:52.197 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 10, raw buffer:  Singapore, Hex: 20 53 69 6e 67 61 70 6f 72 65 
+2025-12-24 04:28:52.197 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' Singapore' (length 10)
+2025-12-24 04:28:52.197 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' Singapore'
+2025-12-24 04:28:52.197 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' Singapore'
+2025-12-24 04:28:52.198 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 30 at pos 25
+2025-12-24 04:28:52.198 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=25
+2025-12-24 04:28:52.215 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 1, raw buffer: ?, Hex: 3f 
+2025-12-24 04:28:52.215 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: '?' (length 1)
+2025-12-24 04:28:52.215 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: '?'
+2025-12-24 04:28:52.216 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: '?'
+2025-12-24 04:28:52.216 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 1471 at pos 26
+2025-12-24 04:28:52.216 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=26
+2025-12-24 04:28:52.230 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 3, raw buffer:  Or, Hex: 20 4f 72 
+2025-12-24 04:28:52.230 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' Or' (length 3)
+2025-12-24 04:28:52.230 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' Or'
+2025-12-24 04:28:52.230 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' Or'
+2025-12-24 04:28:52.231 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 30215 at pos 27
+2025-12-24 04:28:52.231 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=27
+2025-12-24 04:28:52.244 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 5, raw buffer: chard, Hex: 63 68 61 72 64 
+2025-12-24 04:28:52.245 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: 'chard' (length 5)
+2025-12-24 04:28:52.245 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: 'chard'
+2025-12-24 04:28:52.245 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: 'chard'
+2025-12-24 04:28:52.245 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 5567 at pos 28
+2025-12-24 04:28:52.245 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=28
+2025-12-24 04:28:52.260 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 5, raw buffer:  Road, Hex: 20 52 6f 61 64 
+2025-12-24 04:28:52.260 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' Road' (length 5)
+2025-12-24 04:28:52.260 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' Road'
+2025-12-24 04:28:52.260 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' Road'
+2025-12-24 04:28:52.260 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 12696 at pos 29
+2025-12-24 04:28:52.260 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=29
+2025-12-24 04:28:52.275 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 6, raw buffer:  Hotel, Hex: 20 48 6f 74 65 6c 
+2025-12-24 04:28:52.275 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' Hotel' (length 6)
+2025-12-24 04:28:52.275 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' Hotel'
+2025-12-24 04:28:52.275 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' Hotel'
+2025-12-24 04:28:52.275 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 30 at pos 30
+2025-12-24 04:28:52.275 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=30
+2025-12-24 04:28:52.290 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 1, raw buffer: ?, Hex: 3f 
+2025-12-24 04:28:52.290 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: '?' (length 1)
+2025-12-24 04:28:52.290 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: '?'
+2025-12-24 04:28:52.290 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: '?'
+2025-12-24 04:28:52.291 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 39109 at pos 31
+2025-12-24 04:28:52.291 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=31
+2025-12-24 04:28:52.305 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 9, raw buffer:  Shopping, Hex: 20 53 68 6f 70 70 69 6e 67 
+2025-12-24 04:28:52.305 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: ' Shopping' (length 9)
+2025-12-24 04:28:52.305 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: ' Shopping'
+2025-12-24 04:28:52.305 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: ' Shopping'
+2025-12-24 04:28:52.306 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Sampled token 30 at pos 32
+2025-12-24 04:28:52.306 32481-32513                         com.yipinqian.fattyai               JNI: Decoding single token, n_past=32
+2025-12-24 04:28:52.320 32481-32513                         com.yipinqian.fattyai               JNI: Detokenize chars = 1, raw buffer: ?, Hex: 3f 
+2025-12-24 04:28:52.320 32481-32513                         com.yipinqian.fattyai               JNI: Token str after construct: '?' (length 1)
+2025-12-24 04:28:52.320 32481-32513                         com.yipinqian.fattyai               JNI: Valid UTF-8 buffer: '?'
+2025-12-24 04:28:52.320 32481-32513 FattyAI                 com.yipinqian.fattyai               Received token: '?'
+2025-12-24 04:28:52.321 32481-32513 FattyAI                 com.yipinqian.fattyai               Generation completed
+2025-12-24 04:28:52.321 32481-32513 FattyAI            com.yipinqian.fattyai               JNI: Generation completed. Total tokens generated: 17
+
