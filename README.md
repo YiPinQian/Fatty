@@ -50,5 +50,3 @@ Query: "Hey"
 
 - Prompt processing: instant
 - Generation speed: 56 tokens/sec
-- Full answer in 17 seconds
-- 100% offline, no internet needed
