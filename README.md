@@ -44,6 +44,8 @@ Google Play Store Link for web installation: https://play.google.com/apps/testin
 
 Google Play Store Link for android: https://play.google.com/store/apps/details?id=com.yipinqian.fattyai
 
+( Sovereign AI Fatty in Singapore Trial Testing Version - On device Inference 56 tps )
+
 Latest update on Fatty AI Trial Testing version - 23-12-2025 - Trial Testing Version for Fatty on Huawei mate 10 4gb phone with logcat around 56 tps - [4gbhuaweitps56.txt](/4gbhuaweitps56.txt)
 
 Query: "Hey"
