@@ -27,7 +27,7 @@ https://www.facebook.com/reel/2063603577377375 <--- this is the latest demo befo
 
 #
 
-Real Logcat from Huawei Mate 40 Pro (8GB RAM)
+Real Logcat from Huawei Mate 40 Pro (8GB RAM) - Please refer to latest logcat below which is 4gbhuaweitps56.txt on Huawei mate 10 4gb phone 
 
 Query: "what is mbs"
 
@@ -44,4 +44,11 @@ Google Play Store Link for web installation: https://play.google.com/apps/testin
 
 Google Play Store Link for android: https://play.google.com/store/apps/details?id=com.yipinqian.fattyai
 
-Latest update on 23-12-2025 - Trial Testing Version for Fatty on Huawei mate 10 4gb phone with logcat around 56 tps - [4gbhuaweitps56.txt](/4gbhuaweitps56.txt)
+Latest update on Fatty AI Trial Testing version - 23-12-2025 - Trial Testing Version for Fatty on Huawei mate 10 4gb phone with logcat around 56 tps - [4gbhuaweitps56.txt](/4gbhuaweitps56.txt)
+
+Query: "Hey"
+
+- Prompt processing: instant
+- Generation speed: 56 tokens/sec
+- Full answer in 17 seconds
+- 100% offline, no internet needed
