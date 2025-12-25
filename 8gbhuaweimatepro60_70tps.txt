@@ -1,9 +1,6 @@
 8gb Huawei Mate 40 Pro around 60 to 70 tokens per second for - Hey and Bye
 
-2025-12-25 17:34:02.448 26203-26261 FattyAI          com.yipinqian.fattyai               JSON content loaded for prompt: hey
-2025-12-25 17:34:02.449 26203-26261                         com.yipinqian.fattyai               Final response from getJsonResponse for prompt 'hey' is: 'null'
-2025-12-25 17:34:02.449 26203-26261 FattyAI             com.yipinqian.fattyai               JNI: generateTinyLlamaResponseStreamed called. fresh_start=0
-2025-12-25 17:34:02.449 26203-26261                         com.yipinqian.fattyai               JNI: Acquired decode mutex (streamed).
+
 2025-12-25 17:34:02.449 26203-26261                         com.yipinqian.fattyai               JNI: Prompt after : hey
 2025-12-25 17:34:02.449 26203-26261                         com.yipinqian.fattyai               JNI: Tokenized prompt into 15 tokens
 2025-12-25 17:34:02.449 26203-26261                         com.yipinqian.fattyai               JNI: Decoding batch 0-14, n_tokens=15, n_past=23
@@ -150,5 +147,6 @@
 2025-12-25 17:36:25.096 26203-26261 FattyAI                 com.yipinqian.fattyai               Generation completed
 2025-12-25 17:36:25.096 26203-26261 FattyAI             com.yipinqian.fattyai               JNI: Generation completed. Total tokens generated: 9
 2025-12-25 17:36:25.099 26203-26203 InputMethodManager      com.yipinqian.fattyai               startInputReason = 4
+
 
 
