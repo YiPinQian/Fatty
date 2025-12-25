@@ -57,4 +57,5 @@ Query: "Hey"
 
 25-12-2025 Logcat for 8gb Huawei Mate 40 Pro for Fatty AI Trial Testing version - around 57 to 65 tps - [8gbhuaweimatepro60_70tps.txt](/8gbhuaweimatepro60_70tps.txt) - log edited - if calculate around 57 tps - maybe can help test on your phone also and let us know please 😅 Fatty@yipinqian.com
 
-
+Query: "Hey" and "Bye"
+- Generation speed: 57 to 65 tokens/sec
