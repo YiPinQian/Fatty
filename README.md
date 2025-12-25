@@ -55,6 +55,6 @@ Query: "Hey"
 
 *** Tested on 6gb+2gb ColorOS phone, the speed won't be same like the 4gb huawel mate 10 or Huawei mate 40 pro 8gb - not bad also for inference, just not as fast - maybe testers can send use your screenshot and let us know the speed of yours? ***
 
-25-12-2025 Logcat for 8gb Huawei Mate 40 Pro for Fatty AI Trial Testing version - around 60 to 70 tps - [8gbhuaweimatepro60_70tps.txt](/8gbhuaweimatepro60_70tps.txt)
+25-12-2025 Logcat for 8gb Huawei Mate 40 Pro for Fatty AI Trial Testing version - around 60 to 70 tps - [8gbhuaweimatepro60_70tps.txt](/8gbhuaweimatepro60_70tps.txt) - log edited - if calculate around 57 tps - maybe can help test on your phone also and let us know please 😅 Fatty@yipinqian.com
 
 
