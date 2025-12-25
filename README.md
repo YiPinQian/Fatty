@@ -69,3 +69,15 @@ Query: "Hey" and "Bye"
 #
 
 *** Tested on 12gb ColorOS 14.0 Oppo Find X3 Pro on 26-12-2025 Singapore Date/Time , speed same as Huawei Mate 40 pro ***
+
+#
+
+Date: 26-12-2025
+
+Note: The latest version with all recent changes is now on the Play Store. For the best testing experience, please download Fatty from there.
+
+Google Play Store Link for web installation: https://play.google.com/apps/testing/com.yipinqian.fattyai
+
+Google Play Store Link for android: https://play.google.com/store/apps/details?id=com.yipinqian.fattyai
+
+We are already working on the next major version for the 2026 full release, but we don't have a fixed date yet.
