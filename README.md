@@ -38,6 +38,8 @@ Query: "what is mbs"
 
 See full log: [fattylogcat.txt](/fattylogcat.txt)
 
+#
+
 Trial Testing APK Download: https://github.com/YiPinQian/Fatty/releases/tag/v1.6-beta
 
 Google Play Store Link for web installation: https://play.google.com/apps/testing/com.yipinqian.fattyai
@@ -48,10 +50,14 @@ Google Play Store Link for android: https://play.google.com/store/apps/details?i
 
 Latest update on Fatty AI Trial Testing version - 23-12-2025 - Trial Testing Version for Fatty on Huawei mate 10 4gb phone with logcat around 56 tps - [4gbhuaweitps56.txt](/4gbhuaweitps56.txt)
 
+#
+
 Query: "Hey"
 
 - Prompt processing: instant
 - Generation speed: 56 tokens/sec
+
+#
 
 *** Tested on 6gb+2gb ColorOS phone, the speed won't be same like the 4gb huawel mate 10 or Huawei mate 40 pro 8gb - not bad also for inference, just not as fast - maybe testers can send use your screenshot and let us know the speed of yours? ***
 
@@ -59,5 +65,7 @@ Query: "Hey"
 
 Query: "Hey" and "Bye"
 - Generation speed: 57 to 65 tokens/sec
+
+#
 
 *** Tested on 12gb ColorOS 14.0 Oppo Find X3 Pro on 26-12-2025 Singapore Date/Time , speed same as Huawei Mate 40 pro ***
