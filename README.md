@@ -59,3 +59,5 @@ Query: "Hey"
 
 Query: "Hey" and "Bye"
 - Generation speed: 57 to 65 tokens/sec
+
+*** Tested on 12gb ColorOS 14.0 Oppo Find X3 Pro on 26-12-2025 Singapore Date/Time , speed same as Huawei Mate 40 pro ***
