@@ -81,3 +81,5 @@ Google Play Store Link for web installation: https://play.google.com/apps/testin
 Google Play Store Link for android: https://play.google.com/store/apps/details?id=com.yipinqian.fattyai
 
 We are already working on the next major version for the 2026 full release, but we don't have a fixed date yet.
+
+PS: Just remove the apk on Github as it is outdated.
