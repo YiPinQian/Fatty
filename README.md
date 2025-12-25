@@ -52,3 +52,5 @@ Query: "Hey"
 
 - Prompt processing: instant
 - Generation speed: 56 tokens/sec
+
+*** Tested on 6gb+2gb ColorOS phone, the speed won't be same like the 4gb huawel mate 10 or Huawei mate 40 pro 8gb - not bad also for inference, just not as fast - maybe testers can send use your screenshot and let us know the speed of yours? ***
