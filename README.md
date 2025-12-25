@@ -82,4 +82,4 @@ Google Play Store Link for android: https://play.google.com/store/apps/details?i
 
 We are already working on the next major version for the 2026 full release, but we don't have a fixed date yet.
 
-PS: Just remove the apk on Github as it is outdated.
+PS: Just remove the apk on Github as it is outdated. (Forgot to update the apk on github previously for some changes, that's why now we will removed it as Play Store has the latest update already 😅)
