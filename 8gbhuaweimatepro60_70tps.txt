@@ -1,4 +1,4 @@
-8gb Huawei Mate 40 Pro around 60 to 70 tokens per second for - Hey and Bye
+8gb Huawei Mate 40 Pro around 60 to 70 tokens per second for - Hey and Bye (Edited: you may get around 57 tps from this log, thanks)
 
 
 2025-12-25 17:34:02.449 26203-26261                         com.yipinqian.fattyai               JNI: Prompt after : hey
@@ -147,6 +147,7 @@
 2025-12-25 17:36:25.096 26203-26261 FattyAI                 com.yipinqian.fattyai               Generation completed
 2025-12-25 17:36:25.096 26203-26261 FattyAI             com.yipinqian.fattyai               JNI: Generation completed. Total tokens generated: 9
 2025-12-25 17:36:25.099 26203-26203 InputMethodManager      com.yipinqian.fattyai               startInputReason = 4
+
 
 
 
