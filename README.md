@@ -2,6 +2,8 @@
 Singapore AI Model 42M parameter local LLM – runs offline on 4GB, 6GB, 8GB, 12GB, 16GB+4GB, 16GB+6GB tested phones
 # Fatty AI – Singapore AI Model 42M Local LLM
 
+Closed source base model (weights private), offline inference app only.
+
 Official domains:  
 → https://fatty.sg  
 → https://fatty.com.sg  
